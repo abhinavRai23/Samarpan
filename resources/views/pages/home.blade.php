@@ -12,6 +12,42 @@
 	</div>		
 </section>
 
+<section id="team" class="parallax-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-7 col-sm-12 title-style text-center">
+				<h1 class="heading">How it Works?</h1>
+			</div>
+
+			<div class="col-md-4 col-sm-12 title-style text-center">
+				<h1 class="heading">Login</h1>
+			</div>	
+			<div class="col-md-7 col-sm-12 content fadeInUp">
+				<p>Senior citizen have a wealth of experience and knowledge to pass on to younger generations. The world isn’t the same as the one they grew up in, but seniors can give first-person accounts of events that may help younger generations understand how the world became what they know now.<br>
+				follow these....
+				</p>
+				<ol type='number'>
+				<li>Create an Account and login</li>
+				<li>Create a profile with your Work experience</li>
+				<li>Ab sab Bagvan ke hath me hai. Just wait!!!</li>
+			</div>
+			<div class="col-md-4 col-sm-12 content text-center">
+				<form action="#" method="post">
+					<div class="md-form">
+						<input name="email" type="email" class="form-control" id="email" placeholder="Email">
+				  </div>
+					<div class="md-form">
+						<input name="password" type="password" class="form-control" id="password" placeholder="Password">
+				  </div>
+				  <div class="md-form">
+						<input name="submit" type="submit" class="form-control" id="submit" value="Submit">
+				  </div>
+				</form>  
+			</div>	
+		</div>
+	</div>
+</section>
+
 <!-- contact section -->
 <section id="contact" class="parallax-section">
 	<div class="container">
@@ -32,7 +68,7 @@
 						<textarea name="message" rows="8" class="md-textarea form-control" id="message" placeholder="Message"></textarea>
 					</div>
 					<div class="md-form col-md-offset-3 col-md-6 col-sm-offset-3 col-sm-6">
-						<input name="submit" type="submit" class="form-control" id="submit" value="make a reservation">
+						<input name="submit" type="submit" class="form-control" id="submit" value="send message">
 					</div>
 				</form>
 			</div>

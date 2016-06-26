@@ -15,24 +15,3 @@
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/fonts.css">
 	<link href='https://fonts.googleapis.com/css?family=Roboto:400,500' rel='stylesheet' type='text/css'>
-
-	<style type="text/css">
-		.fa{
-			padding-right:3%; 
-		}
-		.navbar-brand{
-			font-family:'Conv_SAMARN__',Sans-Serif;
-		}
-		.btn-danger:active,.btn-danger:focus,.btn-danger:active{
-			background-color: #fff;
-		}
-		.navbar-dark .navbar-nav .nav-link {
-		    color: rgba(255,255,255,.9);
-		}
-		#contact .form-control{
-			padding-left:10px;
-		}
-		.text-center {
-		    text-align: center;
-		}
-	</style>

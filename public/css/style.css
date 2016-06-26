@@ -5,6 +5,47 @@ Template 2076 Zentro
 http://www.tooplate.com/view/2076-zentro
 
 */
+    .navbar-nav .nav-item+.nav-item {
+    margin-left: 2rem;
+    }
+    .fa{
+      padding-right:3%; 
+    }
+    .navbar-brand{
+      font-family:'Conv_SAMARN__',Sans-Serif;
+    }
+    .btn-danger:active,.btn-danger:focus,.btn-danger:active{
+      background-color: #fff;
+    }
+    .navbar-dark .navbar-nav .nav-link {
+        color: rgba(255,255,255,.95);
+    }
+    #contact .form-control{
+      padding-left:10px;
+    }
+    .text-center {
+        text-align: center;
+    }
+    .pull-right{
+      float:right;
+    }
+    #team .col-md-4 {
+        padding-top: 17px;
+    }
+    .title-style{
+      padding: 17px 20px;
+      background-color: #F44336;
+      color:#fff;
+    }
+    .content{
+      padding-top:5% !important;
+    }
+    #team .col-md-7{
+      margin-right: 6%;
+    }
+
+
+
 @media (min-width: 768px)
 .navbar>.container .navbar-brand{
     margin-left: -15px;
@@ -168,9 +209,6 @@ hr {
 }
 
 /* team section */
-#team {
-  text-align: center;
-}
 #team h3 {
   font-size: 18px;
   line-height: 4px;
@@ -179,9 +217,7 @@ hr {
   color: #5C5C5C;
   padding-top: 24px;
 }
-#team .col-md-4 {
- padding-top: 42px;
-}
+
 
 /* menu section */
 #menu h4 {
