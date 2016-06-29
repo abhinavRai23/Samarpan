@@ -14,3 +14,11 @@ Route::get('/', function()
 {
     return View::make('pages.home');
 });
+
+Route::get('registration', function()
+{
+    return View::make('pages.registration');
+});
+
+
+
