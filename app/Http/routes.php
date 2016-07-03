@@ -20,5 +20,20 @@ Route::get('registration', function()
     return View::make('pages.registration');
 });
 
+Route::get('profile', function()
+{
+    return View::make('pages.profile');
+});
+
+Route::get('bulk', function()
+{
+    return View::make('pages.bulk');
+});
+
+Route::get('workxp', function()
+{
+    return View::make('pages.workXp');
+});
+
 
 
